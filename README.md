@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 - 🎯 **Goal**: Become a full-fledged Robotics & Automation expert — mastering Embedded Systems, AI, Controls, Autonomous Systems & more.
 - 📘 **Current**: 5th Semester @ B.E. Robotics and Automation | Building hands-on, scalable projects.
 - 🧠 **Future**: Crack high-paying product-based roles + pursue **PhD** + lead **research** in intelligent autonomous systems.
@@ -28,18 +28,18 @@
 
 ---
 
-## 📂 Highlight Projects
+##  Highlight Projects
 
-- 🤖 **ROS2-Enabled Mobile Robot**  
+- **ROS2-Enabled Mobile Robot**  
   Manual control with Raspberry Pi + L2983N + ROS2
 
-- 🛡️ **RFID-Based Book Tracking System**  
+- **RFID-Based Book Tracking System**  
   Detects correct/incorrect book placements using RFID + LEDs
 
-- 🎮 **Eye-Controlled Robot Car**  
+- **Eye-Controlled Robot Car**  
   Uses webcam input + OpenCV + Python to control a rover by eye movement
 
-- 🍼 **Automatic Pill Dispenser**  
+- **Automatic Pill Dispenser**  
   Dispenses medication on schedule with alert system
 
 ---
@@ -47,8 +47,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=santhosh-m-dev&show_icons=true&theme=radical" alt="Santhosh's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhosh-m-dev&layout=compact&theme=radical" alt="Santhosh's top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MSanthosh08-dev&show_icons=true&theme=radical" alt="Santhosh's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSanthosh08-dev&layout=compact&theme=radical" alt="Santhosh's top languages" />
 </p>
 
 ---
