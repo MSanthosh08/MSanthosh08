@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Santhosh M!
 
-🎓 **Robotics and Automation Engineer | 3rd Year B.TECH. | Aspiring Researcher**  
+🎓 **Aspiring Robotics AI Engineer | 3rd Year B.TECH. | Aspiring Researcher**  
 💡 Passionate about building intelligent machines and shaping the future with Robotics, AI, and Automation.  
 📍 Based in India | Learning every day | Dreaming big | Engineering bigger.
 
