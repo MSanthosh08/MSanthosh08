@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Santhosh M!
 
-🎓 **Aspiring Robotics AI Engineer | 3rd Year B.TECH. | Aspiring Researcher**  
+🎓 **Aspiring Robotics AI Engineer | Final Year B.TECH. | Aspiring Researcher**  
 💡 Passionate about building intelligent machines and shaping the future with Robotics, AI, and Automation.  
 📍 Based in India | Learning every day | Dreaming big | Engineering bigger.
 
@@ -8,7 +8,7 @@
 
 ##  About Me
 - 🎯 **Goal**: Become a full-fledged Robotics & Automation expert — mastering Embedded Systems, AI, Controls, Autonomous Systems & more.
-- 📘 **Current**: 5th Semester @ B.E. Robotics and Automation | Building hands-on, scalable projects.
+- 📘 **Current**: 7th Semester @ B.E. Robotics and Automation | Building hands-on, scalable projects.
 - 🧠 **Future**: Crack high-paying product-based roles + pursue **PhD** + lead **research** in intelligent autonomous systems.
 - 🌍 Languages: Tamil 🇮🇳 | English 🌐 | Learning Japanese & German 🗾🇩🇪
 
